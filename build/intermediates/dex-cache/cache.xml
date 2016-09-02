@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/JianingLiu/AndroidStudioProjects/MyWeather/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/Users/JianingLiu/AndroidStudioProjects/MyWeather/app/build/intermediates/pre-dexed/debug/classes-d126f2e741289091defb55abfa5b495861251235.jar" />
+    </item>
+    <item
+        jar="/Users/JianingLiu/AndroidStudioProjects/MyWeather/app/build/intermediates/exploded-aar/com.hamweather/aeris-maps-library/1.1.1/jars/libs/aeris-android-library-1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="184d478bfd1597cacbec408b7f4c1ed8aa5123e3">
+        <dex dex="/Users/JianingLiu/AndroidStudioProjects/MyWeather/app/build/intermediates/pre-dexed/debug/aeris-android-library-1.1-6429e51ee74d673e731e7a7cb1fa1b79f077c319.jar" />
+    </item>
+    <item
+        jar="/Users/JianingLiu/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/Users/JianingLiu/AndroidStudioProjects/MyWeather/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.1-ef1e5f035c7f976f4c3fd39fc277ca0518cb7f5f.jar" />
+    </item>
+    <item
+        jar="/Users/JianingLiu/AndroidStudioProjects/MyWeather/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="dd9247ea0fabe8ee479638c4b4a23e93752be256">
+        <dex dex="/Users/JianingLiu/AndroidStudioProjects/MyWeather/app/build/intermediates/pre-dexed/debug/classes-39b663a0cde3b18faf84ccc54429b3ca714f77c3.jar" />
+    </item>
+    <item
+        jar="/Users/JianingLiu/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-android/1.2.0/6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd/bolts-android-1.2.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd">
+        <dex dex="/Users/JianingLiu/AndroidStudioProjects/MyWeather/app/build/intermediates/pre-dexed/debug/bolts-android-1.2.0-aa49fa2ec0220ba3ddd57a8f55c6e1191076031a.jar" />
+    </item>
+    <item
+        jar="/Users/JianingLiu/AndroidStudioProjects/MyWeather/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/Users/JianingLiu/AndroidStudioProjects/MyWeather/app/build/intermediates/pre-dexed/debug/classes-0df51bf9d6778455b4c40b2df6eb5ec5396331ec.jar" />
+    </item>
+    <item
+        jar="/Users/JianingLiu/AndroidStudioProjects/MyWeather/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/Users/JianingLiu/AndroidStudioProjects/MyWeather/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.1-6e3ce090a57c912d9ab480f1cd119ea39919e954.jar" />
+    </item>
+    <item
+        jar="/Users/JianingLiu/AndroidStudioProjects/MyWeather/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.7.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5bdb38b7e4b6094891648c1dc4dc08589b460f97">
+        <dex dex="/Users/JianingLiu/AndroidStudioProjects/MyWeather/app/build/intermediates/pre-dexed/debug/classes-9464650784569bfcac0e0eca411067c682b9b340.jar" />
+    </item>
+    <item
+        jar="/Users/JianingLiu/AndroidStudioProjects/MyWeather/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="/Users/JianingLiu/AndroidStudioProjects/MyWeather/app/build/intermediates/pre-dexed/debug/classes-3d3117049e6f6ad2b5b0b30fb49bcc32be0c8a24.jar" />
+    </item>
+    <item
+        jar="/Users/JianingLiu/AndroidStudioProjects/MyWeather/app/build/intermediates/exploded-aar/com.hamweather/aeris-maps-library/1.1.1/jars/libs/picasso-2.2.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="74137f8d9aac26dd9463efe32271f2be8d41cda9">
+        <dex dex="/Users/JianingLiu/AndroidStudioProjects/MyWeather/app/build/intermediates/pre-dexed/debug/picasso-2.2.0-3d7f99709e1ccf731a2adeedfd90a0943ce7b416.jar" />
+    </item>
+    <item
+        jar="/Users/JianingLiu/AndroidStudioProjects/MyWeather/app/build/intermediates/exploded-aar/com.hamweather/aeris-maps-library/1.1.1/jars/libs/gson-2.2.4.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="973e832af433b44c3ed11c426f2f390b29f3f3f8">
+        <dex dex="/Users/JianingLiu/AndroidStudioProjects/MyWeather/app/build/intermediates/pre-dexed/debug/gson-2.2.4-aa661f2d83799bd2cc699ef6aa28673deb12c38a.jar" />
+    </item>
+    <item
+        jar="/Users/JianingLiu/AndroidStudioProjects/MyWeather/app/build/intermediates/exploded-aar/com.hamweather/aeris-maps-library/1.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="0f9397e5c217cec76b6057357be15dabfd27a46d">
+        <dex dex="/Users/JianingLiu/AndroidStudioProjects/MyWeather/app/build/intermediates/pre-dexed/debug/classes-9ba52598441a0b91a72c09561f57db83d299bb62.jar" />
+    </item>
+    <item
+        jar="/Users/JianingLiu/AndroidStudioProjects/MyWeather/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="/Users/JianingLiu/AndroidStudioProjects/MyWeather/app/build/intermediates/pre-dexed/debug/classes-cd4454a1fd4ced6a42c9e03cf0a77479ca5ad9f7.jar" />
+    </item>
+
+</items>
